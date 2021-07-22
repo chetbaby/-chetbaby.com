@@ -21,6 +21,7 @@ export default function Home() {
           </a>
           
         </h2>
+        <h3><a href='mailto:eyo@chetbaby.com'>eyo@chetbaby.com</a></h3>
       </main>
     </div>
   );
