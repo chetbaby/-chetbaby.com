@@ -11,17 +11,16 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          🚧 CBABY! is working on this site 🚧
-        </h1>
+        <h1 className={styles.title}>🚧🚧🚧 CBABY! is working on this site</h1>
         <h2>
           check out my links:
           <a href="https://linktr.ee/chetbaby" className={styles.card}>
             here!
           </a>
-          
         </h2>
-        <h3><a href='mailto:eyo@chetbaby.com'>eyo@chetbaby.com</a></h3>
+        <h3>
+          <a href="mailto:eyo@chetbaby.com">eyo@chetbaby.com</a>
+        </h3>
       </main>
     </div>
   );
