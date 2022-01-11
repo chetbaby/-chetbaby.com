@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>🚧🚧🚧 CBABY! is working on this site</h1>
+        <h1 className={styles.title}>🚧🚧🚧 CBABY! is working on this site...or is he?</h1>
         <h2>
           check out my links:
           <a href="https://linktr.ee/chetbaby" className={styles.card}>
